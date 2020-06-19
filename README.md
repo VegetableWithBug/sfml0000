@@ -4,4 +4,4 @@
 
 2020/4/15
 原来写的太乱了，打算做一些改进：
-改进进行中的库：https://github.com/VegetableWithBug/PlayCard
+改进进行中的库：https://github.com/VegetableWithBug/PlayCard(弃坑中）
